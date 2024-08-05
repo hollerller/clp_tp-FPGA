@@ -1,0 +1,116 @@
+m255
+K3
+13
+cModel Technology
+dC:\Users\davle\Documents\UBA\CESE\CLP\Codigos\clp_tp-FPGA\Guia_VHDL\02-add4b\sim
+Eadd1b
+Z0 w1722819221
+Z1 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+Z2 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z3 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z4 dC:\Users\davle\Documents\UBA\CESE\CLP\Codigos\clp_tp-FPGA\Guia_VHDL\03-addSub4b\sim
+Z5 8C:/Users/davle/Documents/UBA/CESE/CLP/Codigos/clp_tp-FPGA/Guia_VHDL/01-add1b/src/rtl/add1b.vhd
+Z6 FC:/Users/davle/Documents/UBA/CESE/CLP/Codigos/clp_tp-FPGA/Guia_VHDL/01-add1b/src/rtl/add1b.vhd
+l0
+L5
+VB;dA^4Eb5g:EF4^:hn9L10
+!s100 jo_1mDO9WFzDSkXbmic^g2
+Z7 OV;C;10.1d;51
+32
+!i10b 1
+Z8 !s108 1722825588.359000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/davle/Documents/UBA/CESE/CLP/Codigos/clp_tp-FPGA/Guia_VHDL/01-add1b/src/rtl/add1b.vhd|
+Z10 !s107 C:/Users/davle/Documents/UBA/CESE/CLP/Codigos/clp_tp-FPGA/Guia_VHDL/01-add1b/src/rtl/add1b.vhd|
+Z11 o-work work -2002 -explicit -O0
+Z12 tExplicit 1
+Aadd1b_arch
+R1
+R2
+R3
+Z13 DEx4 work 5 add1b 0 22 B;dA^4Eb5g:EF4^:hn9L10
+l18
+L15
+Z14 VZ6jQ7NN49M2T_l7O3MYPH2
+Z15 !s100 0R?3Enl<6SRdbH=Tdi9Tj1
+R7
+32
+!i10b 1
+R8
+R9
+R10
+R11
+R12
+Eaddsub4b
+Z16 w1722824355
+R1
+R2
+R3
+R4
+Z17 8C:/Users/davle/Documents/UBA/CESE/CLP/Codigos/clp_tp-FPGA/Guia_VHDL/03-addSub4b/src/rtl/addSub4b.vhd
+Z18 FC:/Users/davle/Documents/UBA/CESE/CLP/Codigos/clp_tp-FPGA/Guia_VHDL/03-addSub4b/src/rtl/addSub4b.vhd
+l0
+L5
+V1T?^:][@m[1?a97i:9jh<0
+R7
+32
+Z19 !s108 1722825588.259000
+Z20 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/davle/Documents/UBA/CESE/CLP/Codigos/clp_tp-FPGA/Guia_VHDL/03-addSub4b/src/rtl/addSub4b.vhd|
+Z21 !s107 C:/Users/davle/Documents/UBA/CESE/CLP/Codigos/clp_tp-FPGA/Guia_VHDL/03-addSub4b/src/rtl/addSub4b.vhd|
+R11
+R12
+!s100 @aWoJ[a=U<R9dXgj03=oF1
+!i10b 1
+Aaddsub4b_arch
+R1
+R2
+R3
+DEx4 work 8 addsub4b 0 22 1T?^:][@m[1?a97i:9jh<0
+l30
+L15
+VljCD`7^H<aLdVo[<kd=9<3
+R7
+32
+R19
+R20
+R21
+R11
+R12
+!s100 m3Wi7Tal;n]R_l^okT5];2
+!i10b 1
+Eaddsub4b_tb
+Z22 w1722825583
+R1
+R2
+R3
+R4
+Z23 8C:/Users/davle/Documents/UBA/CESE/CLP/Codigos/clp_tp-FPGA/Guia_VHDL/03-addSub4b/src/testbench/addSub4b_tb.vhd
+Z24 FC:/Users/davle/Documents/UBA/CESE/CLP/Codigos/clp_tp-FPGA/Guia_VHDL/03-addSub4b/src/testbench/addSub4b_tb.vhd
+l0
+L5
+VQY>?:]G]Do`^iocCz><RX3
+R7
+32
+Z25 !s108 1722825588.305000
+Z26 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/davle/Documents/UBA/CESE/CLP/Codigos/clp_tp-FPGA/Guia_VHDL/03-addSub4b/src/testbench/addSub4b_tb.vhd|
+Z27 !s107 C:/Users/davle/Documents/UBA/CESE/CLP/Codigos/clp_tp-FPGA/Guia_VHDL/03-addSub4b/src/testbench/addSub4b_tb.vhd|
+R11
+R12
+!s100 K9QmFPTUK`XG>;66NcRIh0
+!i10b 1
+Aaddsub4b_tb_arch
+R1
+R2
+R3
+DEx4 work 11 addsub4b_tb 0 22 QY>?:]G]Do`^iocCz><RX3
+l26
+L8
+VGYSS40A^ag8l5Ho7>IdEh1
+R7
+32
+R25
+R26
+R27
+R11
+R12
+!s100 =go4TDWdXS2=DBZ1AW`_K0
+!i10b 1

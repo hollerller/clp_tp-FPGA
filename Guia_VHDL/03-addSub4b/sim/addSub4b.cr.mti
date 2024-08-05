@@ -1,4 +1,13 @@
-C:/Users/davle/Documents/UBA/CESE/CLP/Codigos/clp_tp-FPGA/Guia_VHDL/03-addSub4b/src/rtl/addSub4b.vhd {1 {vcom -work work -2002 -explicit C:/Users/davle/Documents/UBA/CESE/CLP/Codigos/clp_tp-FPGA/Guia_VHDL/03-addSub4b/src/rtl/addSub4b.vhd
+C:/Users/davle/Documents/UBA/CESE/CLP/Codigos/clp_tp-FPGA/Guia_VHDL/03-addSub4b/src/testbench/addSub4b_tb.vhd {1 {vcom -work work -2002 -explicit C:/Users/davle/Documents/UBA/CESE/CLP/Codigos/clp_tp-FPGA/Guia_VHDL/03-addSub4b/src/testbench/addSub4b_tb.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity addSub4b_tb
+-- Compiling architecture addSub4b_tb_arch of addSub4b_tb
+
+} {} {}} C:/Users/davle/Documents/UBA/CESE/CLP/Codigos/clp_tp-FPGA/Guia_VHDL/03-addSub4b/src/rtl/addSub4b.vhd {1 {vcom -work work -2002 -explicit C:/Users/davle/Documents/UBA/CESE/CLP/Codigos/clp_tp-FPGA/Guia_VHDL/03-addSub4b/src/rtl/addSub4b.vhd
 Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
 -- Loading package STANDARD
 -- Loading package TEXTIO

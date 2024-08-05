@@ -1,0 +1,79 @@
+m255
+K3
+13
+cModel Technology
+dC:\altera\13.1
+Eadd1b
+Z0 w1722819221
+Z1 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+Z2 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z3 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z4 dC:\Users\davle\Documents\UBA\CESE\CLP\Codigos\clp_tp-FPGA\Guia_VHDL\01-add1b\sim
+Z5 8C:/Users/davle/Documents/UBA/CESE/CLP/Codigos/clp_tp-FPGA/Guia_VHDL/01-add1b/src/rtl/add1b.vhd
+Z6 FC:/Users/davle/Documents/UBA/CESE/CLP/Codigos/clp_tp-FPGA/Guia_VHDL/01-add1b/src/rtl/add1b.vhd
+l0
+L5
+VB;dA^4Eb5g:EF4^:hn9L10
+Z7 OV;C;10.1d;51
+32
+Z8 !s108 1722820274.471000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/davle/Documents/UBA/CESE/CLP/Codigos/clp_tp-FPGA/Guia_VHDL/01-add1b/src/rtl/add1b.vhd|
+Z10 !s107 C:/Users/davle/Documents/UBA/CESE/CLP/Codigos/clp_tp-FPGA/Guia_VHDL/01-add1b/src/rtl/add1b.vhd|
+Z11 o-work work -2002 -explicit -O0
+Z12 tExplicit 1
+!s100 jo_1mDO9WFzDSkXbmic^g2
+!i10b 1
+Aadd1b_arch
+R1
+R2
+R3
+DEx4 work 5 add1b 0 22 B;dA^4Eb5g:EF4^:hn9L10
+l18
+L15
+VZ6jQ7NN49M2T_l7O3MYPH2
+R7
+32
+R8
+R9
+R10
+R11
+R12
+!s100 0R?3Enl<6SRdbH=Tdi9Tj1
+!i10b 1
+Eadd1b_tb
+Z13 w1722820187
+R1
+R2
+R3
+R4
+Z14 8C:/Users/davle/Documents/UBA/CESE/CLP/Codigos/clp_tp-FPGA/Guia_VHDL/01-add1b/src/testbench/add1b_tb.vhd
+Z15 FC:/Users/davle/Documents/UBA/CESE/CLP/Codigos/clp_tp-FPGA/Guia_VHDL/01-add1b/src/testbench/add1b_tb.vhd
+l0
+L5
+VdEH0d3of6biZWZD]K8A170
+!s100 kJ5X_h6zm0NlhnkIJGf2l0
+R7
+32
+!i10b 1
+Z16 !s108 1722820274.533000
+Z17 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/davle/Documents/UBA/CESE/CLP/Codigos/clp_tp-FPGA/Guia_VHDL/01-add1b/src/testbench/add1b_tb.vhd|
+Z18 !s107 C:/Users/davle/Documents/UBA/CESE/CLP/Codigos/clp_tp-FPGA/Guia_VHDL/01-add1b/src/testbench/add1b_tb.vhd|
+R11
+R12
+Aadd1b_tb_arch
+R1
+R2
+R3
+DEx4 work 8 add1b_tb 0 22 dEH0d3of6biZWZD]K8A170
+l26
+L8
+V[7D4K0=Dj7ROX@2lOR]]42
+!s100 o^VC<F1m=iL?=AFP`5RY90
+R7
+32
+!i10b 1
+R16
+R17
+R18
+R11
+R12

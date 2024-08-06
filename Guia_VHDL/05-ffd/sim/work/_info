@@ -1,0 +1,79 @@
+m255
+K3
+13
+cModel Technology
+dC:\Users\davle\Documents\UBA\CESE\CLP\Codigos\clp_tp-FPGA\Guia_VHDL\04-mux2_1\sim
+Effd
+Z0 w1722902461
+Z1 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+Z2 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z3 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z4 dC:\Users\davle\Documents\UBA\CESE\CLP\Codigos\clp_tp-FPGA\Guia_VHDL\05-ffd\sim
+Z5 8C:/Users/davle/Documents/UBA/CESE/CLP/Codigos/clp_tp-FPGA/Guia_VHDL/05-ffd/src/rtl/ffd.vhd
+Z6 FC:/Users/davle/Documents/UBA/CESE/CLP/Codigos/clp_tp-FPGA/Guia_VHDL/05-ffd/src/rtl/ffd.vhd
+l0
+L5
+V6GRXabgY=gCMLkLfiUF1I1
+!s100 l;8oWdX^@>O3@DKSgOMKF1
+Z7 OV;C;10.1d;51
+32
+!i10b 1
+Z8 !s108 1722902470.800000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/davle/Documents/UBA/CESE/CLP/Codigos/clp_tp-FPGA/Guia_VHDL/05-ffd/src/rtl/ffd.vhd|
+Z10 !s107 C:/Users/davle/Documents/UBA/CESE/CLP/Codigos/clp_tp-FPGA/Guia_VHDL/05-ffd/src/rtl/ffd.vhd|
+Z11 o-work work -2002 -explicit -O0
+Z12 tExplicit 1
+Affd_arch
+R1
+R2
+R3
+DEx4 work 3 ffd 0 22 6GRXabgY=gCMLkLfiUF1I1
+l18
+L15
+V>COZQ@ch<H6:EYgNlB?Ra1
+!s100 UjRA6[S?@zj2_B[;UG@e_3
+R7
+32
+!i10b 1
+R8
+R9
+R10
+R11
+R12
+Effd_tb
+Z13 w1722902467
+R1
+R2
+R3
+R4
+Z14 8C:/Users/davle/Documents/UBA/CESE/CLP/Codigos/clp_tp-FPGA/Guia_VHDL/05-ffd/src/testbench/ffd_tb.vhd
+Z15 FC:/Users/davle/Documents/UBA/CESE/CLP/Codigos/clp_tp-FPGA/Guia_VHDL/05-ffd/src/testbench/ffd_tb.vhd
+l0
+L5
+VV_X2K]>TWn65hD=[ZHUBf3
+R7
+32
+Z16 !s108 1722902470.750000
+Z17 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/davle/Documents/UBA/CESE/CLP/Codigos/clp_tp-FPGA/Guia_VHDL/05-ffd/src/testbench/ffd_tb.vhd|
+Z18 !s107 C:/Users/davle/Documents/UBA/CESE/CLP/Codigos/clp_tp-FPGA/Guia_VHDL/05-ffd/src/testbench/ffd_tb.vhd|
+R11
+R12
+!s100 ;1M?5Ij8TaH2a?iIl=ScS2
+!i10b 1
+Affd_tb_arch
+R1
+R2
+R3
+DEx4 work 6 ffd_tb 0 22 V_X2K]>TWn65hD=[ZHUBf3
+l26
+L8
+VdHQ85Q@EOc>VTeL6F484o2
+R7
+32
+R16
+R17
+R18
+R11
+R12
+!s100 S]f8TzAGO;2aXFV>CzQd11
+!i10b 1

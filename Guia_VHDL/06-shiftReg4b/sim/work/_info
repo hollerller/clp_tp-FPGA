@@ -1,0 +1,116 @@
+m255
+K3
+13
+cModel Technology
+dC:\altera\13.1
+Effd
+Z0 w1722902461
+Z1 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+Z2 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z3 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z4 dC:\Users\davle\Documents\UBA\CESE\CLP\Codigos\clp_tp-FPGA\Guia_VHDL\06-shiftReg4b\sim
+Z5 8C:/Users/davle/Documents/UBA/CESE/CLP/Codigos/clp_tp-FPGA/Guia_VHDL/05-ffd/src/rtl/ffd.vhd
+Z6 FC:/Users/davle/Documents/UBA/CESE/CLP/Codigos/clp_tp-FPGA/Guia_VHDL/05-ffd/src/rtl/ffd.vhd
+l0
+L5
+V6GRXabgY=gCMLkLfiUF1I1
+!s100 l;8oWdX^@>O3@DKSgOMKF1
+Z7 OV;C;10.1d;51
+32
+!i10b 1
+Z8 !s108 1722907485.546000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/davle/Documents/UBA/CESE/CLP/Codigos/clp_tp-FPGA/Guia_VHDL/05-ffd/src/rtl/ffd.vhd|
+Z10 !s107 C:/Users/davle/Documents/UBA/CESE/CLP/Codigos/clp_tp-FPGA/Guia_VHDL/05-ffd/src/rtl/ffd.vhd|
+Z11 o-work work -2002 -explicit -O0
+Z12 tExplicit 1
+Affd_arch
+R1
+R2
+R3
+Z13 DEx4 work 3 ffd 0 22 6GRXabgY=gCMLkLfiUF1I1
+l18
+L15
+Z14 V>COZQ@ch<H6:EYgNlB?Ra1
+Z15 !s100 UjRA6[S?@zj2_B[;UG@e_3
+R7
+32
+!i10b 1
+R8
+R9
+R10
+R11
+R12
+Eshiftreg4b
+Z16 w1722907113
+R1
+R2
+R3
+R4
+Z17 8C:/Users/davle/Documents/UBA/CESE/CLP/Codigos/clp_tp-FPGA/Guia_VHDL/06-shiftReg4b/src/rtl/shiftReg4b.vhd
+Z18 FC:/Users/davle/Documents/UBA/CESE/CLP/Codigos/clp_tp-FPGA/Guia_VHDL/06-shiftReg4b/src/rtl/shiftReg4b.vhd
+l0
+L5
+Vn2iE@Ez7deM=3Q73a399h2
+R7
+32
+Z19 !s108 1722907485.455000
+Z20 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/davle/Documents/UBA/CESE/CLP/Codigos/clp_tp-FPGA/Guia_VHDL/06-shiftReg4b/src/rtl/shiftReg4b.vhd|
+Z21 !s107 C:/Users/davle/Documents/UBA/CESE/CLP/Codigos/clp_tp-FPGA/Guia_VHDL/06-shiftReg4b/src/rtl/shiftReg4b.vhd|
+R11
+R12
+!s100 WZ]G536;eYz=Q6]c8VWmL1
+!i10b 1
+Ashiftreg4b_arch
+R1
+R2
+R3
+DEx4 work 10 shiftreg4b 0 22 n2iE@Ez7deM=3Q73a399h2
+l30
+L15
+V8VzWJj3XS6a5Jg^FNd9`73
+R7
+32
+R19
+R20
+R21
+R11
+R12
+!s100 `8@fIHm1Z[gCL9dE>J2Y]2
+!i10b 1
+Eshiftreg4b_tb
+Z22 w1722907482
+R1
+R2
+R3
+R4
+Z23 8C:/Users/davle/Documents/UBA/CESE/CLP/Codigos/clp_tp-FPGA/Guia_VHDL/06-shiftReg4b/src/testbench/shiftReg4b_tb.vhd
+Z24 FC:/Users/davle/Documents/UBA/CESE/CLP/Codigos/clp_tp-FPGA/Guia_VHDL/06-shiftReg4b/src/testbench/shiftReg4b_tb.vhd
+l0
+L5
+Vf50AfRj0b32P3=N9b[izh0
+R7
+32
+Z25 !s108 1722907485.503000
+Z26 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/davle/Documents/UBA/CESE/CLP/Codigos/clp_tp-FPGA/Guia_VHDL/06-shiftReg4b/src/testbench/shiftReg4b_tb.vhd|
+Z27 !s107 C:/Users/davle/Documents/UBA/CESE/CLP/Codigos/clp_tp-FPGA/Guia_VHDL/06-shiftReg4b/src/testbench/shiftReg4b_tb.vhd|
+R11
+R12
+!s100 Mb3cfS?d_B`b[ViS2NjRd1
+!i10b 1
+Ashiftreg4b_tb_arch
+R1
+R2
+R3
+DEx4 work 13 shiftreg4b_tb 0 22 f50AfRj0b32P3=N9b[izh0
+l26
+L8
+V[EIGW4gKmZonP0K[YAG:J2
+R7
+32
+R25
+R26
+R27
+R11
+R12
+!s100 X5e5ZGeU7:=C`F6WNRRLH0
+!i10b 1

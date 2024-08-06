@@ -7,6 +7,15 @@ Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
 -- Compiling entity shiftReg4b
 -- Compiling architecture shiftReg4b_arch of shiftReg4b
 
+} {} {}} C:/Users/davle/Documents/UBA/CESE/CLP/Codigos/clp_tp-FPGA/Guia_VHDL/06-shiftReg4b/src/testbench/shiftReg4b_tb.vhd {1 {vcom -work work -2002 -explicit C:/Users/davle/Documents/UBA/CESE/CLP/Codigos/clp_tp-FPGA/Guia_VHDL/06-shiftReg4b/src/testbench/shiftReg4b_tb.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity shiftReg4b_tb
+-- Compiling architecture shiftReg4b_tb_arch of shiftReg4b_tb
+
 } {} {}} C:/Users/davle/Documents/UBA/CESE/CLP/Codigos/clp_tp-FPGA/Guia_VHDL/05-ffd/src/rtl/ffd.vhd {1 {vcom -work work -2002 -explicit C:/Users/davle/Documents/UBA/CESE/CLP/Codigos/clp_tp-FPGA/Guia_VHDL/05-ffd/src/rtl/ffd.vhd
 Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
 -- Loading package STANDARD

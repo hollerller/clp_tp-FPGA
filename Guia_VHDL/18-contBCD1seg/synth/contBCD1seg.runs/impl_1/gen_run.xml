@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="impl_1" LaunchPart="xc7z010clg400-1" LaunchTime="1723322288">
+  <File Type="OPT-HWDEF" Name="contBCD1seg.hwdef"/>
+  <File Type="PA-DCP" Name="contBCD1seg.dcp"/>
+  <File Type="OPT-DCP" Name="contBCD1seg_opt.dcp"/>
+  <File Type="ROUTE-PWR" Name="contBCD1seg_power_routed.rpt"/>
+  <File Type="PA-TCL" Name="contBCD1seg.tcl"/>
+  <File Type="ROUTE-PWR-SUM" Name="contBCD1seg_power_summary_routed.pb"/>
+  <File Type="REPORTS-TCL" Name="contBCD1seg_reports.tcl"/>
+  <File Type="BG-DRC" Name="contBCD1seg.drc"/>
+  <File Type="OPT-METHODOLOGY-DRC" Name="contBCD1seg_methodology_drc_opted.rpt"/>
+  <File Type="INIT-TIMING" Name="contBCD1seg_timing_summary_init.rpt"/>
+  <File Type="OPT-DRC" Name="contBCD1seg_drc_opted.rpt"/>
+  <File Type="OPT-TIMING" Name="contBCD1seg_timing_summary_opted.rpt"/>
+  <File Type="PWROPT-DCP" Name="contBCD1seg_pwropt.dcp"/>
+  <File Type="PWROPT-DRC" Name="contBCD1seg_drc_pwropted.rpt"/>
+  <File Type="PWROPT-TIMING" Name="contBCD1seg_timing_summary_pwropted.rpt"/>
+  <File Type="PLACE-DCP" Name="contBCD1seg_placed.dcp"/>
+  <File Type="PLACE-IO" Name="contBCD1seg_io_placed.rpt"/>
+  <File Type="PLACE-CLK" Name="contBCD1seg_clock_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL" Name="contBCD1seg_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL-PB" Name="contBCD1seg_utilization_placed.pb"/>
+  <File Type="PLACE-CTRL" Name="contBCD1seg_control_sets_placed.rpt"/>
+  <File Type="PLACE-SIMILARITY" Name="contBCD1seg_incremental_reuse_placed.rpt"/>
+  <File Type="PLACE-PRE-SIMILARITY" Name="contBCD1seg_incremental_reuse_pre_placed.rpt"/>
+  <File Type="PLACE-TIMING" Name="contBCD1seg_timing_summary_placed.rpt"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="contBCD1seg_postplace_pwropt.dcp"/>
+  <File Type="POSTPLACE-PWROPT-TIMING" Name="contBCD1seg_timing_summary_postplace_pwropted.rpt"/>
+  <File Type="PHYSOPT-DCP" Name="contBCD1seg_physopt.dcp"/>
+  <File Type="PHYSOPT-DRC" Name="contBCD1seg_drc_physopted.rpt"/>
+  <File Type="BG-BIT" Name="contBCD1seg.bit"/>
+  <File Type="PHYSOPT-TIMING" Name="contBCD1seg_timing_summary_physopted.rpt"/>
+  <File Type="ROUTE-ERROR-DCP" Name="contBCD1seg_routed_error.dcp"/>
+  <File Type="ROUTE-DCP" Name="contBCD1seg_routed.dcp"/>
+  <File Type="ROUTE-BLACKBOX-DCP" Name="contBCD1seg_routed_bb.dcp"/>
+  <File Type="ROUTE-DRC" Name="contBCD1seg_drc_routed.rpt"/>
+  <File Type="ROUTE-DRC-PB" Name="contBCD1seg_drc_routed.pb"/>
+  <File Type="BITSTR-MSK" Name="contBCD1seg.msk"/>
+  <File Type="ROUTE-DRC-RPX" Name="contBCD1seg_drc_routed.rpx"/>
+  <File Type="BG-BGN" Name="contBCD1seg.bgn"/>
+  <File Type="ROUTE-METHODOLOGY-DRC" Name="contBCD1seg_methodology_drc_routed.rpt"/>
+  <File Type="BITSTR-RBT" Name="contBCD1seg.rbt"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="contBCD1seg_methodology_drc_routed.rpx"/>
+  <File Type="BG-BIN" Name="contBCD1seg.bin"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="contBCD1seg_methodology_drc_routed.pb"/>
+  <File Type="ROUTE-PWR-RPX" Name="contBCD1seg_power_routed.rpx"/>
+  <File Type="ROUTE-STATUS" Name="contBCD1seg_route_status.rpt"/>
+  <File Type="ROUTE-STATUS-PB" Name="contBCD1seg_route_status.pb"/>
+  <File Type="ROUTE-TIMINGSUMMARY" Name="contBCD1seg_timing_summary_routed.rpt"/>
+  <File Type="ROUTE-TIMING-PB" Name="contBCD1seg_timing_summary_routed.pb"/>
+  <File Type="ROUTE-TIMING-RPX" Name="contBCD1seg_timing_summary_routed.rpx"/>
+  <File Type="ROUTE-SIMILARITY" Name="contBCD1seg_incremental_reuse_routed.rpt"/>
+  <File Type="RDI-RDI" Name="contBCD1seg.vdi"/>
+  <File Type="ROUTE-CLK" Name="contBCD1seg_clock_utilization_routed.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-DCP" Name="contBCD1seg_postroute_physopt.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-BLACKBOX-DCP" Name="contBCD1seg_postroute_physopt_bb.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING" Name="contBCD1seg_timing_summary_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-PB" Name="contBCD1seg_timing_summary_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-RPX" Name="contBCD1seg_timing_summary_postroute_physopted.rpx"/>
+  <File Type="BITSTR-NKY" Name="contBCD1seg.nky"/>
+  <File Type="BITSTR-BMM" Name="contBCD1seg_bd.bmm"/>
+  <File Type="BITSTR-MMI" Name="contBCD1seg.mmi"/>
+  <File Type="BITSTR-LTX" Name="debug_nets.ltx"/>
+  <File Type="BITSTR-LTX" Name="contBCD1seg.ltx"/>
+  <File Type="BITSTR-SYSDEF" Name="contBCD1seg.sysdef"/>
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PPRDIR/../../15-contBCD1dig/src/rtl/contBCD1dig.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../17-genEna/src/rtl/genEna.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../src/rtl/contBCD1seg.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="contBCD1seg"/>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <File Path="$PPRDIR/../Arty-Z7-10-Master.xdc">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2018">
+      <Desc>Default settings for Implementation.</Desc>
+    </StratHandle>
+    <Step Id="init_design"/>
+    <Step Id="opt_design"/>
+    <Step Id="power_opt_design"/>
+    <Step Id="place_design"/>
+    <Step Id="post_place_power_opt_design"/>
+    <Step Id="phys_opt_design"/>
+    <Step Id="route_design"/>
+    <Step Id="post_route_phys_opt_design"/>
+    <Step Id="write_bitstream"/>
+  </Strategy>
+</GenRun>

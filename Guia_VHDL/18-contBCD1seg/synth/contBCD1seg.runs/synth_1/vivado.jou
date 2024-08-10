@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.1 (64-bit)
+# SW Build 2188600 on Wed Apr  4 18:40:38 MDT 2018
+# IP Build 2185939 on Wed Apr  4 20:55:05 MDT 2018
+# Start of session at: Sat Aug 10 15:37:18 2024
+# Process ID: 28084
+# Current directory: C:/Users/davle/Documents/UBA/CESE/CLP/Codigos/clp_tp-FPGA/Guia_VHDL/18-contBCD1seg/synth/contBCD1seg.runs/synth_1
+# Command line: vivado.exe -log contBCD1seg.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source contBCD1seg.tcl
+# Log file: C:/Users/davle/Documents/UBA/CESE/CLP/Codigos/clp_tp-FPGA/Guia_VHDL/18-contBCD1seg/synth/contBCD1seg.runs/synth_1/contBCD1seg.vds
+# Journal file: C:/Users/davle/Documents/UBA/CESE/CLP/Codigos/clp_tp-FPGA/Guia_VHDL/18-contBCD1seg/synth/contBCD1seg.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source contBCD1seg.tcl -notrace

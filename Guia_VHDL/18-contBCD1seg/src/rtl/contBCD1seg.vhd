@@ -4,7 +4,7 @@ use IEEE.numeric_std.all;
 
 entity contBCD1seg is
     generic(
-        N: natural := 4
+        N: natural := 125000000
     );
     port (
         ena_i: in std_logic;

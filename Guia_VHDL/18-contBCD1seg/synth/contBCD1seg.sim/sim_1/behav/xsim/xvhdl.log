@@ -1,0 +1,8 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/davle/Documents/UBA/CESE/CLP/Codigos/clp_tp-FPGA/Guia_VHDL/15-contBCD1dig/src/rtl/contBCD1dig.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity contBCD1dig
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/davle/Documents/UBA/CESE/CLP/Codigos/clp_tp-FPGA/Guia_VHDL/17-genEna/src/rtl/genEna.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity genEna
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/davle/Documents/UBA/CESE/CLP/Codigos/clp_tp-FPGA/Guia_VHDL/18-contBCD1seg/src/rtl/contBCD1seg.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity contBCD1seg
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/davle/Documents/UBA/CESE/CLP/Codigos/clp_tp-FPGA/Guia_VHDL/18-contBCD1seg/src/testbench/contBCD1seg_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity contBCD1seg_tb

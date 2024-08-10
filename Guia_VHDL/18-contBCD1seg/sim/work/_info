@@ -1,0 +1,155 @@
+m255
+K3
+13
+cModel Technology
+dC:\Users\davle\Documents\UBA\CESE\CLP\Codigos\clp_tp-FPGA\Guia_VHDL\17-genEna\sim
+Econtbcd1dig
+Z0 w1723313538
+Z1 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+Z2 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z3 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z4 dC:\Users\davle\Documents\UBA\CESE\CLP\Codigos\clp_tp-FPGA\Guia_VHDL\18-contBCD1seg\sim
+Z5 8C:/Users/davle/Documents/UBA/CESE/CLP/Codigos/clp_tp-FPGA/Guia_VHDL/15-contBCD1dig/src/rtl/contBCD1dig.vhd
+Z6 FC:/Users/davle/Documents/UBA/CESE/CLP/Codigos/clp_tp-FPGA/Guia_VHDL/15-contBCD1dig/src/rtl/contBCD1dig.vhd
+l0
+L5
+VH6R;3U07DIFBjag6Ma7im0
+!s100 487[2Vo<_g0;Y0R3R9dNG1
+Z7 OV;C;10.1d;51
+32
+!i10b 1
+Z8 !s108 1723319806.529000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/davle/Documents/UBA/CESE/CLP/Codigos/clp_tp-FPGA/Guia_VHDL/15-contBCD1dig/src/rtl/contBCD1dig.vhd|
+Z10 !s107 C:/Users/davle/Documents/UBA/CESE/CLP/Codigos/clp_tp-FPGA/Guia_VHDL/15-contBCD1dig/src/rtl/contBCD1dig.vhd|
+Z11 o-work work -2002 -explicit -O0
+Z12 tExplicit 1
+Acontbcd1dig_arch
+R1
+R2
+R3
+Z13 DEx4 work 11 contbcd1dig 0 22 H6R;3U07DIFBjag6Ma7im0
+l20
+L15
+Z14 VikY7fcYhbH=:ieEnaQ5ZD3
+Z15 !s100 o6^^P_o6LaV01efIPTb:I1
+R7
+32
+!i10b 1
+R8
+R9
+R10
+R11
+R12
+Econtbcd1seg
+Z16 w1723319499
+R1
+R2
+R3
+R4
+Z17 8C:/Users/davle/Documents/UBA/CESE/CLP/Codigos/clp_tp-FPGA/Guia_VHDL/18-contBCD1seg/src/rtl/contBCD1seg.vhd
+Z18 FC:/Users/davle/Documents/UBA/CESE/CLP/Codigos/clp_tp-FPGA/Guia_VHDL/18-contBCD1seg/src/rtl/contBCD1seg.vhd
+l0
+L5
+Vg6fShe0R5ODb5KV;2ZYdS1
+R7
+32
+Z19 !s108 1723319806.390000
+Z20 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/davle/Documents/UBA/CESE/CLP/Codigos/clp_tp-FPGA/Guia_VHDL/18-contBCD1seg/src/rtl/contBCD1seg.vhd|
+Z21 !s107 C:/Users/davle/Documents/UBA/CESE/CLP/Codigos/clp_tp-FPGA/Guia_VHDL/18-contBCD1seg/src/rtl/contBCD1seg.vhd|
+R11
+R12
+!s100 ^fW^j4V;RPBESH<6]AUCi2
+!i10b 1
+Acontbcd1seg_arch
+Z22 DEx4 work 6 genena 0 22 5?M<M0;LJzGCZAPP9_<AV3
+R13
+R1
+R2
+R3
+DEx4 work 11 contbcd1seg 0 22 g6fShe0R5ODb5KV;2ZYdS1
+l23
+L17
+V_a3]oKEoc;XL?G]NU1k7^2
+R7
+32
+R19
+R20
+R21
+R11
+R12
+!s100 ZKcP?>N3G[RgnIf0W>[Ye0
+!i10b 1
+Econtbcd1seg_tb
+Z23 w1723319790
+R1
+R2
+R3
+R4
+Z24 8C:/Users/davle/Documents/UBA/CESE/CLP/Codigos/clp_tp-FPGA/Guia_VHDL/18-contBCD1seg/src/testbench/contBCD1seg_tb.vhd
+Z25 FC:/Users/davle/Documents/UBA/CESE/CLP/Codigos/clp_tp-FPGA/Guia_VHDL/18-contBCD1seg/src/testbench/contBCD1seg_tb.vhd
+l0
+L5
+VL7[FKzziCGjOL@Lb@N;Cb0
+R7
+32
+Z26 !s108 1723319806.436000
+Z27 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/davle/Documents/UBA/CESE/CLP/Codigos/clp_tp-FPGA/Guia_VHDL/18-contBCD1seg/src/testbench/contBCD1seg_tb.vhd|
+Z28 !s107 C:/Users/davle/Documents/UBA/CESE/CLP/Codigos/clp_tp-FPGA/Guia_VHDL/18-contBCD1seg/src/testbench/contBCD1seg_tb.vhd|
+R11
+R12
+!s100 W416@A^M<dZlU^L?OG:d03
+!i10b 1
+Acontbcd1seg_tb_arch
+R1
+R2
+R3
+DEx4 work 14 contbcd1seg_tb 0 22 L7[FKzziCGjOL@Lb@N;Cb0
+l28
+L8
+VEdgOdS912H6@M]S^lW@272
+R7
+32
+R26
+R27
+R28
+R11
+R12
+!s100 SSXgl]>lA2^P=U;>?M2M40
+!i10b 1
+Egenena
+Z29 w1723314902
+R1
+R2
+R3
+R4
+Z30 8C:/Users/davle/Documents/UBA/CESE/CLP/Codigos/clp_tp-FPGA/Guia_VHDL/17-genEna/src/rtl/genEna.vhd
+Z31 FC:/Users/davle/Documents/UBA/CESE/CLP/Codigos/clp_tp-FPGA/Guia_VHDL/17-genEna/src/rtl/genEna.vhd
+l0
+L5
+V5?M<M0;LJzGCZAPP9_<AV3
+R7
+32
+Z32 !s108 1723319806.484000
+Z33 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/davle/Documents/UBA/CESE/CLP/Codigos/clp_tp-FPGA/Guia_VHDL/17-genEna/src/rtl/genEna.vhd|
+Z34 !s107 C:/Users/davle/Documents/UBA/CESE/CLP/Codigos/clp_tp-FPGA/Guia_VHDL/17-genEna/src/rtl/genEna.vhd|
+R11
+R12
+!s100 YXlJRZzzJ2NRMf<3OIUKB3
+!i10b 1
+Agenena_arch
+R1
+R2
+R3
+R22
+l19
+L16
+VNHkhZ5ngmV3k[[`LXD1^22
+!s100 e<AVZY_h6lhO;L6aoP8G>1
+R7
+32
+R32
+R33
+R34
+R11
+R12
+!i10b 1

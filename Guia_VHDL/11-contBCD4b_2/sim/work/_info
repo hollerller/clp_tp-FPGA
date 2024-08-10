@@ -1,0 +1,79 @@
+m255
+K3
+13
+cModel Technology
+dC:\Users\davle\Documents\UBA\CESE\CLP\Codigos\clp_tp-FPGA\Guia_VHDL\10-contBCD4b\sim
+Econtbcd4b_2
+Z0 w1723323883
+Z1 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+Z2 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z3 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z4 dC:\Users\davle\Documents\UBA\CESE\CLP\Codigos\clp_tp-FPGA\Guia_VHDL\11-contBCD4b_2\sim
+Z5 8C:/Users/davle/Documents/UBA/CESE/CLP/Codigos/clp_tp-FPGA/Guia_VHDL/11-contBCD4b_2/src/rtl/contBCD4b_2.vhd
+Z6 FC:/Users/davle/Documents/UBA/CESE/CLP/Codigos/clp_tp-FPGA/Guia_VHDL/11-contBCD4b_2/src/rtl/contBCD4b_2.vhd
+l0
+L5
+V^zdS;[:@MLCQi_h13j6g=3
+Z7 OV;C;10.1d;51
+32
+Z8 !s108 1723323946.489000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/davle/Documents/UBA/CESE/CLP/Codigos/clp_tp-FPGA/Guia_VHDL/11-contBCD4b_2/src/rtl/contBCD4b_2.vhd|
+Z10 !s107 C:/Users/davle/Documents/UBA/CESE/CLP/Codigos/clp_tp-FPGA/Guia_VHDL/11-contBCD4b_2/src/rtl/contBCD4b_2.vhd|
+Z11 o-work work -2002 -explicit -O0
+Z12 tExplicit 1
+!s100 =hlBXfMKjERbIh5oIzGG]0
+!i10b 1
+Acontbcd4b_2_arch
+R1
+R2
+R3
+DEx4 work 11 contbcd4b_2 0 22 ^zdS;[:@MLCQi_h13j6g=3
+l20
+L15
+VaIQMDYME[Nn>2kAXTzEEa1
+!s100 RzGQ:gdCanh2KoKl^gaiC0
+R7
+32
+R8
+R9
+R10
+R11
+R12
+!i10b 1
+Econtbcd4b_2_tb
+Z13 w1723323942
+R1
+R2
+R3
+R4
+Z14 8C:/Users/davle/Documents/UBA/CESE/CLP/Codigos/clp_tp-FPGA/Guia_VHDL/11-contBCD4b_2/src/testbench/contBCD4b_2_tb.vhd
+Z15 FC:/Users/davle/Documents/UBA/CESE/CLP/Codigos/clp_tp-FPGA/Guia_VHDL/11-contBCD4b_2/src/testbench/contBCD4b_2_tb.vhd
+l0
+L5
+V6zoa``lG^R?329lD::RBj3
+!s100 O9IVjVdahBieX>L]^V;Ya1
+R7
+32
+!i10b 1
+Z16 !s108 1723323946.537000
+Z17 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/davle/Documents/UBA/CESE/CLP/Codigos/clp_tp-FPGA/Guia_VHDL/11-contBCD4b_2/src/testbench/contBCD4b_2_tb.vhd|
+Z18 !s107 C:/Users/davle/Documents/UBA/CESE/CLP/Codigos/clp_tp-FPGA/Guia_VHDL/11-contBCD4b_2/src/testbench/contBCD4b_2_tb.vhd|
+R11
+R12
+Acontbcd4b_2_tb_arch
+R1
+R2
+R3
+Z19 DEx4 work 14 contbcd4b_2_tb 0 22 6zoa``lG^R?329lD::RBj3
+l24
+L8
+VboVe^fDIU9I2;aOCXd>HC3
+!s100 95ke2aQ?PE13WgZJ0;9LU1
+R7
+32
+!i10b 1
+R16
+R17
+R18
+R11
+R12

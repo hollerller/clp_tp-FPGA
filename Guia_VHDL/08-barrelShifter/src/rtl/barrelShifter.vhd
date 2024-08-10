@@ -16,8 +16,6 @@ end entity barrelShifter;
 architecture barrelShifter_arch of barrelShifter is
         -- declarations
 
-   -- signal aux: std_logic_vector(des_i-1 downto 0);   
-
 begin
         -- behavior
     s_o <= std_logic_vector(unsigned(a_i) ror des_i);

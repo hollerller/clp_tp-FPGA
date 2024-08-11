@@ -1,0 +1,79 @@
+m255
+K3
+13
+cModel Technology
+dC:\Users\davle\Documents\UBA\CESE\CLP\Codigos\clp_tp-FPGA\Guia_VHDL\18-contBCD1seg\sim
+Enco
+Z0 w1723407508
+Z1 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+Z2 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z3 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z4 dC:\Users\davle\Documents\UBA\CESE\CLP\Codigos\clp_tp-FPGA\NCO\sim
+Z5 8C:/Users/davle/Documents/UBA/CESE/CLP/Codigos/clp_tp-FPGA/NCO/src/rtl/NCO.vhd
+Z6 FC:/Users/davle/Documents/UBA/CESE/CLP/Codigos/clp_tp-FPGA/NCO/src/rtl/NCO.vhd
+l0
+L5
+V4emWP_Bj4moCfYlEG2I2B0
+Z7 OV;C;10.1d;51
+32
+Z8 !s108 1723407524.252000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/davle/Documents/UBA/CESE/CLP/Codigos/clp_tp-FPGA/NCO/src/rtl/NCO.vhd|
+Z10 !s107 C:/Users/davle/Documents/UBA/CESE/CLP/Codigos/clp_tp-FPGA/NCO/src/rtl/NCO.vhd|
+Z11 o-work work -2002 -explicit -O0
+Z12 tExplicit 1
+!s100 9PI11fR[OJjDbP7a6XOL;0
+!i10b 1
+Anco_arch
+R1
+R2
+R3
+DEx4 work 3 nco 0 22 4emWP_Bj4moCfYlEG2I2B0
+l4119
+L14
+V3M;gP<2=o6gT@XT:d]S5e2
+R7
+32
+R8
+R9
+R10
+R11
+R12
+!s100 @;5?_kMT_X];k?```PX?Q2
+!i10b 1
+Enco_tb
+Z13 w1723399215
+R1
+R2
+R3
+R4
+Z14 8C:/Users/davle/Documents/UBA/CESE/CLP/Codigos/clp_tp-FPGA/NCO/src/testbench/NCO_tb.vhd
+Z15 FC:/Users/davle/Documents/UBA/CESE/CLP/Codigos/clp_tp-FPGA/NCO/src/testbench/NCO_tb.vhd
+l0
+L5
+V;Vl;dGmWFIU86^ddH1VE?3
+!s100 WAidAlmQZn@E^3^VFa5`U2
+R7
+32
+!i10b 1
+Z16 !s108 1723407524.475000
+Z17 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/davle/Documents/UBA/CESE/CLP/Codigos/clp_tp-FPGA/NCO/src/testbench/NCO_tb.vhd|
+Z18 !s107 C:/Users/davle/Documents/UBA/CESE/CLP/Codigos/clp_tp-FPGA/NCO/src/testbench/NCO_tb.vhd|
+R11
+R12
+Anco_tb_arch
+R1
+R2
+R3
+Z19 DEx4 work 6 nco_tb 0 22 ;Vl;dGmWFIU86^ddH1VE?3
+l24
+L8
+Z20 V85A7P0:Ae^YY=ZX<K?b^m3
+Z21 !s100 UQcl=>>BL<HmBf^Wd9jCT2
+R7
+32
+!i10b 1
+R16
+R17
+R18
+R11
+R12
